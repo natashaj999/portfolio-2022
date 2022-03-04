@@ -116,9 +116,9 @@ img {
 
 h1 {
   font-size: 2rem;
-  font-family: var('Playfair Display, serif');
+  
   margin-bottom: 1rem;
-  color: var(--baby-powder); 
+
 }
 
 h2 {
