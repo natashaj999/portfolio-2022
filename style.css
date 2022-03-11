@@ -230,6 +230,9 @@ p {
   min-height: 80vh;
   display: flex;
   flex-direction: column;
+  background: url(ocean.jpg);
+  background-size: cover;
+  
 }
 
 .branding-navigation {
